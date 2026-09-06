@@ -6,3 +6,8 @@ Test-Repo um zu prüfen, ob GitHub Achievement Badges nur bei öffentlichen Repo
 ## Zweck
 
 Prüft, ob GitHub-Achievement-Badges auch bei rein öffentlicher Repo-Aktivität sichtbar werden, nachdem sie bei privater Repo-Aktivität ausgeblieben sind.
+
+
+## Zweiter Test
+
+PR #2 für den Pull-Shark-Badge (2. gemergter PR in diesem öffentlichen Repo).
